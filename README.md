@@ -1,5 +1,5 @@
 # kuccthonpygame
-주제 : COSMOS GAME image
+주제 : COSMOS GAME
 
 우주를 배경으로 한 게임입니다.
 
